@@ -1,0 +1,7 @@
+component_id,component_type_id,hose_diameter,corresponding_shell,coupling_class,material,plating,orientation,weight
+C-0872,CP-023,4.8,C-0855,SP-0098,SP-0016,Yes,No,0.01
+C-0873,CP-023,4.8,C-0856,SP-0098,SP-0016,Yes,No,0.01
+C-0874,CP-023,4.8,C-0857,SP-0098,SP-0038,Yes,No,0.001
+C-1039,CP-023,15.9,C-1040,SP-0097,SP-0095,No,No,0.052
+C-1041,CP-023,15.9,C-1042,SP-0099,SP-0095,No,No,0.065
+C-1043,CP-023,25.4,C-1044,SP-0099,SP-0095,No,No,0.196

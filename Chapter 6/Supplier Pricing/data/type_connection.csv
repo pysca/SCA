@@ -1,0 +1,15 @@
+connection_type_id,name
+B-001,37 deg Flare-SAE J514
+B-002,ORFS-SAE J1453
+B-003,Hi-Duty
+B-004,NPTF-SAE J476/J514
+B-005,SAE STOR-SAE J1926
+B-006,45 deg Flare-SAE J512
+B-007,45 deg Inv Flare-SAE J512
+B-008,A-C
+B-009,Metric STOR-ISO 6149
+B-010,Plain
+B-011,Metric Flat Face-ISO 9974
+B-012,Code 61 Flange
+B-013,Code 62 Flange
+9999,Other

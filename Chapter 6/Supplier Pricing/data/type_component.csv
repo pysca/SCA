@@ -1,0 +1,30 @@
+component_type_id,name
+CP-001,4-bolt Tig Straight
+CP-002,4-bolt MJ Straight
+CP-003,4-bolt Braze/Weld Straight
+CP-004,2-bolt Braze/Weld Straight
+CP-005,2-bolt MJ Straight
+CP-006,Braze/Weld Flange Head
+CP-007,MJ Flange Head
+CP-008,4-bolt Braze/Weld Elbow
+CP-009,4-bolt Tig Elbow
+CP-010,2-bolt Braze/Weld Elbow
+CP-011,4-bolt MJ Elbow
+CP-012,MJ Plug
+CP-013,4-bolt MJ Tee
+CP-014,Threaded Straight
+CP-015,Threaded Elbow
+CP-016,Threaded Tee
+CP-017,Threaded Lateral Cross
+CP-018,Threaded Boss
+CP-019,4-bolt Boss
+CP-020,2-bolt Boss
+CP-021,Free-Floating 4-bolt Spacer
+CP-022,Free-Floating 4-bolt Captive Flange
+CP-023,Stems and Shells
+CP-024,Sleeves
+CP-025,ORFS Nut
+CP-026,JIC 37 - 45 Nut
+CP-027,Weld On Nut
+CP-028,Straight Adapter
+CP-029,Elbow Adapter

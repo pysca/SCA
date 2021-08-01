@@ -1,0 +1,5 @@
+component_id,component_type_id,bolt_pattern_long,bolt_pattern_wide,extension_length,overall_length,thickness,drop_length,mj_class_code,mj_plug_class_code,groove,unique_feature,orientation,weight
+C-0271,OTHER,58.7,30.2,57.1,93,57,28.5,MJ-003,Threaded,No,No,Yes,1.526
+C-1809,OTHER,58.72,30.18,57.09,108,57,28.5,MJ-003,MJ-005,No,No,Yes,2.184
+C-1830,OTHER,52.4,26.2,43.5,78.5,51,25.5,MJ-003,Threaded,No,Yes,Yes,1.135
+C-1865,OTHER,58.7,30.2,57.1,107,57,28.5,MJ-003,MJ-005,No,No,Yes,1.953
