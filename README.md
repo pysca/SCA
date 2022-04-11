@@ -1,4 +1,4 @@
-This project aims at teaching you the fundamentals of Machine Learning for Supply Chain Management in Python. It contains the example code and exercise solutions introduced in my Palgrave Macmillan Book  [Supply Chain Analytics: Concepts, Techniques and Applications](https://link.springer.com/book/10.1007/978-3-030-92224-5#toc). Also available at [Amazon](https://www.amazon.co.uk/Supply-Chain-Analytics-Techniques-Applications/dp/3030922235/ref=sr_1_2?keywords=Kurt%2BY.%2BLiu&qid=1649676645&sr=8-2&th=1).
+This project aims at teaching you the fundamentals of Machine Learning for Supply Chain Management in Python. It contains the example code and exercise solutions introduced in my Palgrave Macmillan Book  [Supply Chain Analytics: Concepts, Techniques and Applications](https://link.springer.com/book/10.1007/978-3-030-92224-5#toc). Also available at [Amazon](https://www.amazon.co.uk/dp/3030922235).
 
 
 [Chapter Two](https://github.com/pysca/SCA/tree/main/Chapter%202)
